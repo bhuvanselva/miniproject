@@ -1,0 +1,11 @@
+Training.csv
+  description.csv
+  diets.csv
+  medications.csv
+  precautions_df.csv
+  symtoms_df.csv
+  workout_df.csv
+  about.html
+  index.html
+  main.py
+  svc.pkl
