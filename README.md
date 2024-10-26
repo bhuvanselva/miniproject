@@ -18,9 +18,13 @@ These features work together to create a robust system that enhances both the ef
 
 ## Requirements
 Development Environment: Pycharm or visual studio code is necessary for coding and the better implementation of the web page for both front and back end.
+
 Data Manipulation Libraries: Pandas: For data loading, manipulation, and preprocessing operations. NumPy: To perform array-based operations efficiently.
+
 Visualization Libraries: Matplotlib and Plotly: To generate visualizations; Plotly also supports interactive plots, if required.
+
 Statistical and ML Libraries (optional but useful): Scikit-Learn: For preprocessing functions (e.g., scaling, encoding) and sample datasets. SciPy: For statistical transformations or distribution-based analysis.
+
 IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
 
 ## System architecture
@@ -41,10 +45,10 @@ The Medicine Recommendation System project has the potential to deliver signific
 By enhancing decision-making capabilities, patient outcomes, and the personalization of medical treatments, the Medicine Recommendation System promises a more efficient, patient-centric healthcare ecosystem that could benefit both patients and healthcare providers alike.
 
 ## References
-Zhaojian Cui,Zhenming Yuan, Yingfei Wu, Xiaoyan Sun,Kai Yu, “Intelligent Recommendation for Departments Based on Medical Knowledge Graph”, IEEE Access,  Volume: 11, pp.25372 - 25385, 2023.
+1.Zhaojian Cui,Zhenming Yuan, Yingfei Wu, Xiaoyan Sun,Kai Yu, “Intelligent Recommendation for Departments Based on Medical Knowledge Graph”, IEEE Access,  Volume: 11, pp.25372 - 25385, 2023.
 
-Xiaokang Zhou, Yue Li, Wei Liang,”CNN-RNN Based Intelligent Recommendation for Online Medical Pre-Diagnosis Support”,IEEE Access, Volume: 18, pp.912 - 921 , 2021.
+2.Xiaokang Zhou, Yue Li, Wei Liang,”CNN-RNN Based Intelligent Recommendation for Online Medical Pre-Diagnosis Support”,IEEE Access, Volume: 18, pp.912 - 921 , 2021.
 
-Yang Han, Zhenguo Han, Jianhui Wu, Yanlong Yu, “Artificial Intelligence Recommendation System of Cancer Rehabilitation Scheme Based on IoT Technology”, IEEE Access, Volume: 8, pp.44924 - 44935, 2020.
+3.Yang Han, Zhenguo Han, Jianhui Wu, Yanlong Yu, “Artificial Intelligence Recommendation System of Cancer Rehabilitation Scheme Based on IoT Technology”, IEEE Access, Volume: 8, pp.44924 - 44935, 2020.
 
 
